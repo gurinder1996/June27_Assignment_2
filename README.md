@@ -28,4 +28,3 @@ This conceptual project utilizes the following technologies for its web presence
 ### 🤝 Contributors
 
 - **Gurinder Saini** - Lead Developer & Visionary
-- **Michael Lewis** - Project Mentor & Quality Assurance
